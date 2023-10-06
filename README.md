@@ -1,1 +1,1 @@
-<!--status-->
+![Discord Status](https://img.shields.io/badge/Discord-dnd-red) ![Spotify Status](https://img.shields.io/badge/Listening%20to-Dance%20The%20Night%20-%20From%20Barbie%20The%20Album%20by%20Dua%20Lipa-1db954)
