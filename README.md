@@ -1,3 +1,3 @@
 <!--status-start-->
-![Discord Status](https://img.shields.io/badge/Discord-online-brightgreen) ![Spotify Status](https://img.shields.io/badge/Listening%20to-VARMT%20%28Kiss%29%20by%20Segert%C3%A5get-1db954)
+![Discord Status](https://img.shields.io/badge/Discord-online-brightgreen) ![Spotify Status](https://img.shields.io/badge/Listening%20to-Paint%20The%20Town%20Red%20by%20Doja%20Cat-1db954)
 <!--status-end-->
