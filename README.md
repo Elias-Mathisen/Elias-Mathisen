@@ -1,1 +1,1 @@
-![Discord Status](https://img.shields.io/badge/Discord-dnd-red) ![Spotify Status](https://img.shields.io/badge/Listening%20to-Floden%20by%20Emma%20Steinbakken%3B%20Hver%20gang%20vi%20m%C3%B8tes-1db954)
+<!--status-->
