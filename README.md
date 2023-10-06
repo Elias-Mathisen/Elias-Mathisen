@@ -1,2 +1,2 @@
-![Status](https://img.shields.io/badge/status-dnd-red)
+![Status](https://img.shields.io/badge/status-idle-yellow)
 <!--status-->
