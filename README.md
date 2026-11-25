@@ -1,46 +1,37 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d3e,100:00ff9c&height=200&section=header&text=Elias%20Eik%C3%A5sen-Mathisen&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20student%20%C2%B7%20Norway&descAlignY=58&descSize=16" />
-</p>
+# 👋 Hey, Elias here
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00FF9C&center=true&vCenter=true&width=520&lines=Hey%2C+I'm+Elias+%F0%9F%91%8B;Cybersecurity+student+%40+Palomar+College;Top+2%25+in+the+National+Cyber+League;Looking+for+SOC+%2F+security+roles" alt="Typing SVG" />
-</p>
+Cybersecurity student who started out fixing printers and resetting passwords for a whole municipality, and ended up more interested in how things break than how to fix them. I spend most of my free time on CTFs: OSINT, log and traffic analysis, crypto and web challenges.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/0x5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:elias-mathi@outlook.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=microsoftoutlook&logoColor=00ff9c" /></a>
-</p>
+![Cybersecurity Student](https://img.shields.io/badge/🎓_Cybersecurity_Student-Palomar_College-0A66C2?style=flat-square&labelColor=30363d)
+![Based in](https://img.shields.io/badge/📍_Based_in-Norway-BA0C2F?style=flat-square&labelColor=30363d)
+![NCL](https://img.shields.io/badge/🏆_NCL_2026-Top_2%25-00C853?style=flat-square&labelColor=30363d)
+![Looking for](https://img.shields.io/badge/🔎_Looking_for-SOC_%2F_Security_roles-8957e5?style=flat-square&labelColor=30363d)
 
-### 👋 About me
+🗣️ 🇳🇴 Norwegian, 🇬🇧 English
 
-I'm a cybersecurity student at Palomar College from the Oslo area. Before that I spent two years as an IT apprentice at Lørenskog Municipality, supporting 1,000+ users with Active Directory, Intune, Entra ID and Microsoft 365. That's where I got hooked on security. These days I mostly do CTFs and small projects, and I'm looking for a SOC or IT security role.
+### 💼 Work
 
-### 🔍 What I'm into
+- [**Lørenskog Municipality**](https://www.lorenskog.kommune.no) [Norway]
+  - **(Aug 23–Aug 25)** · IT Apprentice: supported 1,000+ users across 30+ sites, 104% of case target
+  - **(Sep 22–Aug 23)** · IT Intern
 
-- 🕵️ OSINT and recon
-- 📡 Network traffic and log analysis
-- 🔐 Cryptography and password cracking
-- 🌐 Web app security
+### 🛡️ Certs & wins
 
-### 🏆 Highlights
+- **CompTIA** Security+ · Network+ · Tech+
+- [**National Cyber League**](https://nationalcyberleague.org) **(Spring 26)** · 173rd in the US, 1st in class
+- **Palomar College** · 4.0 GPA, Phi Theta Kappa
 
-- 🛡️ CompTIA **Security+**, **Network+** and **Tech+**
-- 🥇 **National Cyber League 2026:** 173rd in the US, 1st in my class (top 2%)
-- 🎓 4.0 GPA, member of **Phi Theta Kappa**
+### 🧰 Toolbox
 
-### 🛠️ Tools
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Intune](https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-</p>
+### 📫 Connect with me
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:0f3d3e,100:0d1117&height=120&section=footer" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0x5)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:elias-mathi@outlook.com)
